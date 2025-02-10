@@ -1,0 +1,11 @@
+build
+CMakeFiles
+_deps
+generated
+pico-sdk
+picotool
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+pico_sdk_import.cmake
+pico_flash_region.ld
